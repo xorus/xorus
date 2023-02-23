@@ -1,5 +1,3 @@
-### Ayoo
-
 I do things for stuff I'm passionate about. Can be personal projects, web apps, stuff.
 
 I don't really have anything special to say or show off, but this README.md thing looked fancy, and even though my avatar depicts my hrothgar character from some final fantasy game, I'm a bit of a crow that likes shiny tings sometimes.
